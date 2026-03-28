@@ -26,7 +26,7 @@
   <a href="#about-me">About</a> •
   <a href="#tech-stack">Tech</a> •
   <a href="#stats">Stats</a> •
-  <a href="#featured">Featured</a> •
+  <a href="#projects">Projects</a> •
   <a href="#connect">Connect</a>
 </div>
 
@@ -49,8 +49,8 @@ Saya suka bikin sesuatu yang rapih, cepat, dan enak dipakai: UI yang bersih, log
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Storywin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Storywin&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Storywin&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Storywin&theme=tokyonight" alt="top langs" />
 </div>
 
 <div align="center">
@@ -58,29 +58,38 @@ Saya suka bikin sesuatu yang rapih, cepat, dan enak dipakai: UI yang bersih, log
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Storywin&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Storywin&theme=tokyonight" alt="profile details" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Storywin&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </div>
 
-## Featured
+## Projects
 
-http://taraci.com/
-https://reikos.id
-https://reismart.org
-https://github.com/Storywin/Livinova
-https://github.com/Storywin/REIKOS-HOMESTAY
+<div align="center">
+  <a href="https://reikos.id" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/reikos.id-0B1220?style=for-the-badge&logo=google-chrome&logoColor=white" alt="reikos.id" />
+  </a>
+  <a href="https://taraci.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/taraci.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="taraci.com" />
+  </a>
+  <a href="https://reismart.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/reismart.org-0B1220?style=for-the-badge&logo=google-chrome&logoColor=white" alt="reismart.org" />
+  </a>
+  <a href="https://tampipay.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/tampipay.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="tampipay.com" />
+  </a>
+</div>
 
 ## Connect
 
 <div align="center">
-  <a href="paytampi@gmail.com">
+  <a href="mailto:paytampi@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  <a href="https://wa.me/6282124962131">
+    <img src="https://img.shields.io/badge/WhatsApp-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
   </a>
 </div>
 
