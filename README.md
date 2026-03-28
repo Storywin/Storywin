@@ -67,8 +67,11 @@ Saya suka bikin sesuatu yang rapih, cepat, dan enak dipakai: UI yang bersih, log
 
 ## Featured
 
-- Pilih 2–4 project terbaik kamu dan taruh link-nya di sini
-- Pastikan repo yang dipilih punya README yang rapih + screenshot biar kelihatan “premium”
+http://taraci.com/
+https://reikos.id
+https://reismart.org
+https://github.com/Storywin/Livinova
+https://github.com/Storywin/REIKOS-HOMESTAY
 
 ## Connect
 
