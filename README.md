@@ -71,9 +71,6 @@ Saya suka bikin sesuatu yang rapih, cepat, dan enak dipakai: UI yang bersih, log
   <a href="https://reikos.id" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/reikos.id-0B1220?style=for-the-badge&logo=google-chrome&logoColor=white" alt="reikos.id" />
   </a>
-  <a href="https://taraci.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/taraci.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="taraci.com" />
-  </a>
   <a href="https://reismart.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/reismart.org-0B1220?style=for-the-badge&logo=google-chrome&logoColor=white" alt="reismart.org" />
   </a>
